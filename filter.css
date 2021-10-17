@@ -1,0 +1,224 @@
+.header{
+    background-color:red;
+    height:50px;
+    padding-top:8px;
+    padding-left:10px;
+}
+
+.header-logo{
+    height: 44px;
+    width: 45px;
+    border-radius: 50%;
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 38px;
+    display:inline-block;
+}
+
+.user-accounts{
+    float:right;
+    color: white;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-right: 76px;
+
+}
+
+.login{
+    display:inline-block;
+}
+
+.signup{
+    display:inline-block;
+    border: solid 1px white;
+    padding: 5px;
+    margin-left: 10px;
+
+}
+
+.heading {
+    color: darkblue;
+    font-size: 39px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-left: 190px;
+
+}
+.filter{
+    height: 610px;
+    width: 250px;
+    border: solid 1px grey;
+    margin-top: 30px;
+    margin-left: 191px;
+    box-shadow: 3px 4px 5px 6px grey;
+    
+
+}
+.item{
+    height: 250;
+    width: 700px;
+    border: solid 1px grey;
+    margin-left: 58px;
+    margin-bottom: 58px;
+    margin-top: 31px;
+    box-shadow:3px 4px 5px 6px grey;
+
+
+}
+
+.images{
+    height: 121px;
+    width: 121px;
+    border-radius: 25%;
+
+}
+
+
+.filters{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 32px;
+    padding-top: 15px;
+    padding-left: 27px;
+}
+.location{
+    color: darkblue;
+    padding-left: 27px;
+    padding-top: 6px;
+    padding-bottom: 9px;
+
+}
+.dd{
+    width: 198px;
+    height: 33px;
+    padding-left: 7px;
+
+}
+.cuisine{
+    color: darkblue;
+    padding-top: 21px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+
+}
+.checkbox{
+    margin-left: 29px;
+    margin-top: 9px;
+    color:grey;
+}
+
+
+.options{
+    margin-left: 9px;
+    color: grey;
+ 
+}
+.radio{
+    margin-top: 15px;
+    margin-left: 30px;
+
+}
+.price{
+    padding-left: 10px;
+    color: grey;
+}
+.sort{
+    padding-left: 34px;
+    padding-top: 15px;
+    color: darkblue;
+
+}
+
+.cost{
+    padding-top: 18px;
+    padding-left: 33px;
+    
+    color: darkblue;
+
+}
+.image{
+    display:inline-block;
+    padding-top: 13px;
+    padding-left: 19px;
+
+}
+.itemcontent{
+    display:inline-block;
+    vertical-align:top;
+    color: darkgreen;
+
+
+}
+.bakeshop{
+    font-size: 37px;
+    font-weight: bold;
+    font-family: cursive;
+    padding-top: 25px;
+    padding-left: 46px;
+}
+.fort{
+    padding-top: 10px;
+    padding-left: 49px;
+    font-size: 21px;
+
+}
+.address{
+    padding-left: 49px;
+    padding-top: 8px;
+}
+
+.linegap{
+    width: 600px;
+    margin-top: 15px;
+    color: grey;
+    padding-left:36px;
+}
+
+.cuisines{
+    display: inline-block;
+    color: darkgrey;
+    padding-left: 27px;
+    font-size: 20px;
+    padding-top: 9px;
+}
+
+
+.bakery{
+    display: inline-block;
+    color: darkblue;
+    font-size: 20px;
+    padding-left: 108px;
+
+}
+
+.cft{
+    display: inline-block;
+    color: darkgrey;
+    font-size: 20px;
+    padding-top: 8px;
+    padding-left: 27px;
+}
+
+.rate{
+    display:inline-block;
+    color: darkblue;
+    font-size: 19px;
+    padding-left: 54px;
+
+}
+.button{
+    color: darkgrey;
+    margin-left: 226px;
+    
+}
+.pagenumber{
+    margin-right: 6px;
+    height: 32px;
+    width: 33px;
+    font-size: 24px;
+    color: darkgrey;
+    border-radius: 25%;
+    border:2px solid grey;
+
+}
